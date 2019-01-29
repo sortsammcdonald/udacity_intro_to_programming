@@ -1,0 +1,28 @@
+ul{
+    padding: 0;
+    list-style: none;
+    align-self: left;
+}
+
+
+.card_complete {
+    width: 350px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+}
+
+.fun_fact p{
+    font-style: italic;
+}
+
+.animal_fact {
+    font-weight: bold;
+}
+
+
+.card_text{
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+}
